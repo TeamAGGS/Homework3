@@ -71,3 +71,56 @@
 	*	**Multisite Development (SITE):** osp has nominal (3) value for site, whereas, osp2 has extra high value for site. Maybe the management decided to discuss the proceedings of the 	project over tele-conferences or other multimedia means rather than discussing them over emails.
 	*	**Precedentedness (PREC):** osp has very low to low value for prec, whereas osp2 has prec in the range[nom,vhigh]. This actually makes sense because as a project develops, understanding of product objectives increases, which may enable management to identify related software systems, and do away with developing new and complex systems.
 	*	**Use of Software Tools (TOOL):** osp has low to nominal value for tool, whereas, osp2 has only very high value for tool. The management decided to move from basic lifecycle tools to strong, mature, proactive lifecycle tools, well integrated with processes and methods.
+
+# Theory 4
+
+- **Table 1:**
+
+Stink[('sced','aexp')] = [<br>
+ 	[4,2,1,0,0,0],<br>
+ 	[2,1,0,0,0,0],<br>
+ 	[1,0,0,0,0,0],<br>
+ 	[0,0,0,0,0,0],<br>
+ 	[0,0,0,0,0,0],<br>
+ 	[0,0,0,0,0,0]]<br>
+ 
+- If the schedule is tight and the project is being worked upon by a team with very limited applications experience(say, less than 2months) in that domain.
+- The learning curve for the team to catch up on the project would be much higher to meet the project deadlines.
+- This could be one major bad smell for the project under consideration.
+
+
+- **Table 2:**
+
+Stink[('cplx','tool')] = [<br>
+ 	[0,0,0,0,0,0],<br>
+ 	[0,0,0,0,0,0],<br>
+	[0,0,0,0,0,0],<br>
+ 	[1,0,0,0,0,0],<br>
+ 	[2,1,0,0,0,0],<br>
+ 	[4,2,1,0,0,0]]<br>
+
+- Suppose a team has started working on a highly complex software project with very basic tools and the management decides to cut down 
+on the resources. 
+- In such a scenario, even if the project demands more sophisticated tools with additional features which would make work easier, the 
+team will be forced to work with insufficient tools/resources thus requiring more effort leading to a 'bad smell'.
+
+
+- **Table 3:**
+
+Stink[('rely','pcap')] = [<br>
+ 	[0,0,0,0,0,0],<br>
+ 	[0,0,0,0,0,0],<br>
+ 	[1,0,0,0,0,0],<br>
+ 	[2,1,0,0,0,0],<br>
+ 	[4,2,1,0,0,0],<br>
+ 	[0,0,0,0,0,0]]<br>
+ 
+ - Suppose an organisation has a newly formed team. 
+ - This team consists of members hailing from several different organizations and teams. Not all have been working with the same 
+ software development lifecycle models. Some followed agile, some the waterfall or even the spiral. Hence, the team still hasn't 
+ established a concrete daily workflow.
+ - At the same time if the team requires to be working with highly critical health care software, it will possibly be a bad smell 
+ for the project given the low level of communication, different methods being followed and the high reliability that the software 
+ requires.
+ 
+	
