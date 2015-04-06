@@ -76,13 +76,13 @@
 
 **Table 1:**
 
-Stink[('sced','aexp')] = [<br>
+**Stink[('sced','aexp')] = [<br>
  	[4,2,1,0,0,0],<br>
  	[2,1,0,0,0,0],<br>
  	[1,0,0,0,0,0],<br>
  	[0,0,0,0,0,0],<br>
  	[0,0,0,0,0,0],<br>
- 	[0,0,0,0,0,0]]<br>
+ 	[0,0,0,0,0,0]]<br>**
  
 - If the schedule is tight and the project is being worked upon by a team with very limited applications experience(say, less than 2months) in that domain.
 - The learning curve for the team to catch up on the project would be much higher to meet the project deadlines.
@@ -91,13 +91,13 @@ Stink[('sced','aexp')] = [<br>
 
 **Table 2:**
 
-Stink[('cplx','tool')] = [<br>
+**Stink[('cplx','tool')] = [<br>
  	[0,0,0,0,0,0],<br>
  	[0,0,0,0,0,0],<br>
 	[0,0,0,0,0,0],<br>
  	[1,0,0,0,0,0],<br>
  	[2,1,0,0,0,0],<br>
- 	[4,2,1,0,0,0]]<br>
+ 	[4,2,1,0,0,0]]<br>**
 
 - Suppose a team has started working on a highly complex software project with very basic tools and the management decides to cut down 
 on the resources. 
@@ -107,13 +107,13 @@ team will be forced to work with insufficient tools/resources thus requiring mor
 
 **Table 3:**
 
-Stink[('rely','pcap')] = [<br>
+**Stink[('rely','pcap')] = [<br>
  	[0,0,0,0,0,0],<br>
  	[0,0,0,0,0,0],<br>
  	[1,0,0,0,0,0],<br>
  	[2,1,0,0,0,0],<br>
  	[4,2,1,0,0,0],<br>
- 	[0,0,0,0,0,0]]<br>
+ 	[0,0,0,0,0,0]]<br>**
  
  - Suppose an organisation has a newly formed team. 
  - This team consists of members hailing from several different organizations and teams. Not all have been working with the same 
