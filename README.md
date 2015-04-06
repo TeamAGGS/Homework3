@@ -2,7 +2,7 @@
 
 # Theory-1: COCOMO
 
-- **List1 (scale factors):**
+* **List1 (scale factors):**
 *  Prec: have we done this before?
    If Prec goes up from thoroughly unprecedented to throughly familiar, the effort will decrease dramatically
 *  Flex: development flexibility
@@ -13,8 +13,7 @@
    If Team goes up from very difficult interactions to seamless interactions, the effort will decrease dramatically
 *  Pmat: process maturity
    Based on weighted average of "Yes" answers to CMM Manturity Questionnaire
-
-- **List2 (uppsies):**
+* **List2 (uppsies):**
 *  acap: analyst capability
    If acap goes up from 15th percentile to 90th percentile, the effort will decrease linearly
 *  pcap: programmer capability
@@ -33,8 +32,7 @@
    If goes up from international to fully collocated, the effort will decrease linearly
 *  sced: length of schedule 
    If goes up from "75% of nominal" to 160%, the effort will decrease linearly
-
-- **List3 (downsies):**
+* **List3 (downsies):**
 *  rely: required reliability
    If rely goes up from slight inconvenience to risk to human life, the effort will increase linearly
 *  data: secondary memory storage requirements
