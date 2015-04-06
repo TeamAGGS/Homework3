@@ -14,7 +14,6 @@
 *  Pmat: process maturity
    Based on weighted average of "Yes" answers to CMM Manturity Questionnaire
 
-
 - **List2 (uppsies):**
 *  acap: analyst capability
    If acap goes up from 15th percentile to 90th percentile, the effort will decrease linearly
@@ -34,7 +33,6 @@
    If goes up from international to fully collocated, the effort will decrease linearly
 *  sced: length of schedule 
    If goes up from "75% of nominal" to 160%, the effort will decrease linearly
-
 
 - **List3 (downsies):**
 *  rely: required reliability
