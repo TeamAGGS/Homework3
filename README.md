@@ -74,7 +74,7 @@
 
 # Theory 4
 
-- **Table 1:**
+**Table 1:**
 
 Stink[('sced','aexp')] = [<br>
  	[4,2,1,0,0,0],<br>
@@ -89,7 +89,7 @@ Stink[('sced','aexp')] = [<br>
 - This could be one major bad smell for the project under consideration.
 
 
-- **Table 2:**
+**Table 2:**
 
 Stink[('cplx','tool')] = [<br>
  	[0,0,0,0,0,0],<br>
@@ -105,7 +105,7 @@ on the resources.
 team will be forced to work with insufficient tools/resources thus requiring more effort leading to a 'bad smell'.
 
 
-- **Table 3:**
+**Table 3:**
 
 Stink[('rely','pcap')] = [<br>
  	[0,0,0,0,0,0],<br>
