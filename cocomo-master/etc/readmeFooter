@@ -1,0 +1,12 @@
+
+## Installation
+
+COCOMO uses a standard UNIX environment (with git,
+make, python 2.7+, bash, awk, etc).  To install and test, do
+the following:
+
+```
+git clone https://github.com/ai-se/cocomo.git
+cd cocomo
+make tests
+```
