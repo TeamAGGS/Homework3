@@ -123,4 +123,28 @@ team will be forced to work with insufficient tools/resources thus requiring mor
  for the project given the low level of communication, different methods being followed and the high reliability that the software 
  requires.
  
-	
+# Practice
+
+**Task 1**
+- data = [2], nkloc=[0.5], rely = [5], pcap = [3]
+
+<img align=center src="./screenshots/task1effort.PNG">
+
+
+<img align=center src="./screenshots/task1badsmells.PNG">
+
+**Task 2**
+- cplx = [4], Pmat = [5], pcap = [4]
+
+<img align=center src="./screenshots/task2effort.PNG">
+
+
+<img align=center src="./screenshots/task2badsmells.PNG">
+
+**Task 3**
+- cplx = [4], pcap = [4], data = [2], nkloc=[0.5]
+
+<img align=center src="./screenshots/task3effort.PNG">
+
+
+<img align=center src="./screenshots/task3badsmells.PNG">
